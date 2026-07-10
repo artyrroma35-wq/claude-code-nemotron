@@ -1,0 +1,11 @@
+Follow this rigorous workflow for any non-trivial task:
+
+1. **Understand** — Restate the goal and constraints in your own words.
+2. **Explore** — Consider multiple approaches and their trade-offs.
+3. **Design** — Propose the best architecture / solution.
+4. **Implement** — Write clean, production-ready code.
+5. **Review** — Critically evaluate your own implementation.
+6. **Test** — Suggest or write tests / verification steps.
+7. **Document** — Explain key decisions and usage.
+
+Use this structure explicitly when the task is complex.
